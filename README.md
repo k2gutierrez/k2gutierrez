@@ -43,7 +43,7 @@ I am a **Solidity Smart Contract Developer & Blockchain Engineer** focused on bu
 Always open to discussing DeFi architecture, smart contract security, or the next big EIP.
 
 *   🐦 **X (Twitter):** [@CarlosGtzChimal](https://x.com/CarlosGtzChimal)
-*   💼 **LinkedIn:** [Carlos Gutiérrez](www.linkedin.com/in/carlos-enrique-gutiérrez-chimal)
+*   💼 **LinkedIn:** [Carlos Gutiérrez](https://www.linkedin.com/in/carlos-enrique-gutiérrez-chimal)
 
 ## 📄 **[View My Full Resume / CV Here](./RESUME.md)**
 
