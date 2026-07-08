@@ -45,6 +45,8 @@ Always open to discussing DeFi architecture, smart contract security, or the nex
 *   🐦 **X (Twitter):** [@CarlosGtzChimal](https://x.com/CarlosGtzChimal)
 *   💼 **LinkedIn:** [Carlos Gutiérrez](www.linkedin.com/in/carlos-enrique-gutiérrez-chimal)
 
+## 📄 **[View My Full Resume / CV Here](./RESUME.md)**
+
 <div align="center">
   <i>"Code, transparency and security are Law."</i> ⚖️
 </div>
