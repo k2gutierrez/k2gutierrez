@@ -25,24 +25,6 @@ I am a **Solidity Smart Contract Developer & Blockchain Engineer** focused on bu
 
 ---
 
-## ⛓️ Featured Projects (Mainnet & Testnet)
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **[DeFi Swap Protocol]** | Decentralized AMM with liquidity pools. | Solidity, Foundry, Next.js, Wagmi | [Repository](#) |
-| **[NFT Staking dApp]** | Staking contracts for NFTs that emit ERC-20 reward tokens. | Solidity, Foundry, RainbowKit | [Repository](#) |
-| **[DAO Governance]** | On-chain voting system with vote delegation. | Solidity, OpenZeppelin | [Repository](#) |
-
-
----
-
-## 📊 On-chain GitHub Stats (Well, almost)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k2gutierrez&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2gutierrez&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
 ---
 
 ## 🔗 Let's connect! 
@@ -53,5 +35,5 @@ Always open to discussing DeFi architecture, smart contract security, or the nex
 *   💼 **LinkedIn:** [Carlos Gutiérrez](www.linkedin.com/in/carlos-enrique-gutiérrez-chimal)
 
 <div align="center">
-  <i>"Code and security are Law."</i> ⚖️
+  <i>"Code, transparency and security are Law."</i> ⚖️
 </div>
