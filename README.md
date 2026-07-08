@@ -41,7 +41,7 @@ I am a **Solidity Smart Contract Developer & Blockchain Engineer** focused on bu
 ## 📊 On-chain GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k2gutierrez&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k2gutierrez&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2gutierrez&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
