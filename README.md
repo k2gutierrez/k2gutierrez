@@ -1,4 +1,4 @@
-# GM! ☀️ Welcome to my decentralized ecosystem 🚀
+# Gm! ☀️ Welcome to my decentralized ecosystem 🚀
 
 > "Building the future of Web3, block by block. Passionate about smart contract security, gas optimization, and Decentralized Finance (DeFi)."
 
@@ -24,6 +24,26 @@ I am a **Solidity Smart Contract Developer & Blockchain Engineer** focused on bu
 `ERC-20` | `ERC-721` | `ERC-1155` | `EIP-4337 (Account Abstraction)` | `IPFS` | `Chainlink`
 
 ---
+
+## ⛓️ Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **[DeFi Liquidity Pool]** | Automated Market Maker (AMM) liquidity pool implementation enabling seamless token swaps and liquidity provisioning. | Solidity, Foundry, DeFi Math | [View Repository](https://github.com/k2gutierrez/LiquidityPool_Foundry) |
+| **[NFT & Marketplace]** | End-to-end ecosystem featuring a custom ERC-721 collection and a decentralized marketplace for minting, buying, and selling. | Solidity, Next.js, Wagmi | [View Repository](https://github.com/k2gutierrez/BlockchainAccelerator_NFT_and_NftMarketplace) |
+| **[Decentralized Raffle]** | Verifiably fair and automated smart contract lottery system utilizing Chainlink VRF for secure randomness. | Solidity, Foundry, Chainlink | [View Repository](https://github.com/k2gutierrez/foundry-raffle) |
+| **[Crypto Bank Vault]** | Secure smart contract vault architecture designed for safe deposits, withdrawals, and asset management. | Solidity, Foundry, OpenZeppelin | [View Repository](https://github.com/k2gutierrez/CryptoBankVault) |
+
+*(Note: Dive into the repositories to check out the extensive testing and documentation).*
+
+---
+
+## 📊 On-chain GitHub Stats 
+
+<div align="center">
+  <img src="https://github.readme-stats.vercel.app/api?username=k2gutierrez&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=k2gutierrez&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 
 ---
 
