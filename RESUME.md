@@ -5,7 +5,7 @@
   <p>
     <a href="https://www.linkedin.com/in/carlos-enrique-guti%C3%A9rrez-chimal">LinkedIn</a> • 
     <a href="https://github.com/k2gutierrez">GitHub</a> •
-    <a href="URL_OF_YOUR_AMPLIFY_WEBSITE_HERE">Portfolio Website</a>
+    <a href="https://main.d3fj6uigrg516g.amplifyapp.com/">CV Website</a>
   </p>
 </div>
 
