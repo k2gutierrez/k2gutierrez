@@ -41,12 +41,20 @@ Industrial Engineer and Full Stack Developer with a Master's in Data Science and
 * Lead internal IT operations, including the architecture of custom management systems and web infrastructure.
 * Direct consulting project logistics and operational workflows.
 
-#### **Founder & Operator** | *Brewhouse*
-*Aug 2017 – Aug 2022 | Guadalajara, Mexico*
-* Founded and managed a commercial bar and craft beer production facility.
+#### **Production Manager** | *Escala Brewery*
+*Jan 2017 – Jan 2020 | Guadalajara, Mexico*
+* Served as production manager and quality engineer, overseeing brewing operations.
 
-#### **Quality Documenter** | *LOMEDIC, S.A. DE C.V.*
-*Jan 2016 – Jan 2017 | Zapopan, Mexico*
+#### **Supply Chain Manager** | *ETT'O electronics*
+*Jan 2016 – Jan 2017 | Guadalajara, Mexico*
+* Managed supply chain operations including planning, purchasing, negotiating, and controlling all aspects of production in the SMT line.
+
+#### **Founder** | *Brewhouse*
+*Aug 2012 – Aug 2017 | Guadalajara, Mexico*
+* Founded and operated a business venture featuring a commercial bar and craft beer production.
+
+#### **Quality Engineer** | *LOMEDIC, S.A. DE C.V.*
+*Jan 2011 – Jan 2012 | Zapopan, Mexico*
 * Executed internal audits and enforced continuous improvement protocols for ISO9001:2010 compliance.
 
 ---
@@ -54,10 +62,8 @@ Industrial Engineer and Full Stack Developer with a Master's in Data Science and
 ### 🎓 Education & Certifications
 
 **Degrees:**
-* **B.S. Industrial Engineering** - *Universidad Tecmilenio*
-
-**Master programs:**
 * **Master in Blockchain Development** - *Blockchain Accelerator*
+* **B.S. Industrial Engineering** - *Universidad Tecmilenio*
 
 **Certifications:**
 * Foundry Fundamentals
