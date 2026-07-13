@@ -89,7 +89,8 @@ Industrial Engineer and Full Stack Developer with a Master's in Data Science and
 * **B.S. Industrial Engineering** — *Universidad Tecmilenio*
 
 **Certifications:**
-* Foundry Fundamentals
-* Fundamentals of Zero-Knowledge Proofs (ZKPs)
+* Foundry Fundamentals - *Cyfrin*
+* Full-Stack Web Development with React - *The Hong Kong University of Science and Technology*
 * Cybersecurity Certification — *EUNCET, Barcelona*
+* Master en Data Science / AI - *DEV.F*
 * EF SET English Certificate — *C1 Advanced (66/100)*
